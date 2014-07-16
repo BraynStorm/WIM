@@ -1,0 +1,5 @@
+[Instances]
+MoP - 5.4.2;D:\World of Warcraft - Mists of Pandaria 5.4.2 (17688)\WoW-mop54.exe;D:\World of Warcraft - Mists of Pandaria 5.4.2 (17688)\WTF\Config.wtf
+[Realmlists]
+Pandashan;logon.pandashan.com;v
+PandaWoW;logon.pandawow.ru;v

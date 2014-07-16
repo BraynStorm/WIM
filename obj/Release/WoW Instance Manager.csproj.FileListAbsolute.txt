@@ -1,0 +1,14 @@
+E:\Development\VisualStudio\WoW Instance Manager\bin\Release\WoW Instance Manager.exe.config
+E:\Development\VisualStudio\WoW Instance Manager\bin\Release\WoW Instance Manager.exe
+E:\Development\VisualStudio\WoW Instance Manager\bin\Release\WoW Instance Manager.pdb
+E:\Development\VisualStudio\WoW Instance Manager\obj\Release\WoW_Instance_Manager.Form1.resources
+E:\Development\VisualStudio\WoW Instance Manager\obj\Release\WoW_Instance_Manager.Properties.Resources.resources
+E:\Development\VisualStudio\WoW Instance Manager\obj\Release\WoW Instance Manager.csproj.GenerateResource.Cache
+E:\Development\VisualStudio\WoW Instance Manager\obj\Release\WoW Instance Manager.exe
+E:\Development\VisualStudio\WoW Instance Manager\obj\Release\WoW Instance Manager.pdb
+E:\Development\VisualStudio\WoW Instance Manager\obj\Release\WoW Instance Manager.csprojResolveAssemblyReference.cache
+E:\Development\VisualStudio\WoW Instance Manager\bin\Release\WoW Instance Manager.exe.manifest
+E:\Development\VisualStudio\WoW Instance Manager\bin\Release\WoW Instance Manager.application
+E:\Development\VisualStudio\WoW Instance Manager\obj\Release\WoW Instance Manager.exe.manifest
+E:\Development\VisualStudio\WoW Instance Manager\obj\Release\WoW Instance Manager.application
+E:\Development\VisualStudio\WoW Instance Manager\bin\Release\logo.png
