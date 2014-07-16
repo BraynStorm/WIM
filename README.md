@@ -1,0 +1,4 @@
+WIM
+===
+
+WoW Instance Manager
